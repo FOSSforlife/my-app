@@ -1,2 +1,2 @@
 # my-app
-This is a software application.
+This is a software application that I am developing.
